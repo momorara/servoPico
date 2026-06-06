@@ -1,2 +1,4 @@
 # servoPico
+servoPico for pico or PicoW
+
 picoを使ったサーボー制御基板。最大6台のサーボを制御できます。また温度、湿度センサー、LED、SWが付いているので、色々なアプリケーションへの応用が可能です。
