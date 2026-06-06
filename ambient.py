@@ -113,8 +113,8 @@ class Ambient:
 
 
 """        チャネルID       ライトキー        """
-# pico 環境設定test
-am = Ambient(68358, "3a0553e59b39b1ef")
+# pico 環境設定test テストする場合は書き換えてください。
+am = Ambient(68008, "3a05xxx39b1ef")
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
 def ambient(temp,humi,press,Cds):
