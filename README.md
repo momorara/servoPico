@@ -5,10 +5,10 @@ picoを使ったサーボー制御基板。最大6台のサーボを制御でき
 
 <<概要>><br>
 　Raspberry Pi picoを使ったサーボー制御基板<br>
- 最大6台のサーボを制御できます。<br>
- センサー　温度、湿度センサー、明暗センサー<br>
- スイッチ　2個<br>
- LED     2個<br>
+　最大6台のサーボを制御できます。<br>
+　センサー　温度、湿度センサー、明暗センサー<br>
+　スイッチ　2個<br>
+　LED     2個<br>
 　サンプルプログラムはpythonで、すべてのソースプログラムを開示いたします。<br>
 
 ・LEDの色等指定はできません。<br>
@@ -26,13 +26,13 @@ picoを使ったサーボー制御基板。最大6台のサーボを制御でき
 まだなし<br>
 
 <<サポート窓口>>
-メールアドレスが　tkj-works@mbr.nifty.com に変更になっています。
-資料等を修正中ですが、ご注意ください。
-サポートコミュニティー　https://www.facebook.com/groups/3773038759434230
+メールアドレスが　tkj-works@mbr.nifty.com に変更になっています。<br>
+資料等を修正中ですが、ご注意ください。<br>
+サポートコミュニティー　https://www.facebook.com/groups/3773038759434230<br>
 
--------------------------------------------
-Raspberry Pi sensor expansion board
-Python example included
-Purchase here:
-現在キャンプファイヤーでクラウドファンディング中
-https://camp-fire.jp/projects/953949/view
+-------------------------------------------<br>
+Raspberry Pi sensor expansion board<br>
+Python example included<br>
+Purchase here:<br>
+現在キャンプファイヤーでクラウドファンディング中<br>
+https://camp-fire.jp/projects/953949/view<br>
