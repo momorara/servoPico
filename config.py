@@ -18,36 +18,19 @@ def ID_PASS():
     # あなたのwifiの設定に変更してください。
     ssid        = 'your ssid'
     password    = 'your password'
-
-    #  ソーズ
-    ssid        = 'TKJ'
-    password    = '19601121'
-    # izumo
-    # ssid        = 'snow4'
-    # password    = '0728244490'
     return ssid,password
 
-def mail_setting():
-    mail_onoff = 1                              # SWのonでメールを送信するかどうかを設定
-    MailServerName = "smtp.mail.yahoo.co.jp"    # メールサーバー名
-    UserName = "coxxxsum@yahoo.co.jp"           # プロバイダーのアカウント(ユーザー名)
-    UserPass = "yahxxx731"                      # プロバイダーのパスワード
-    toMailAddres ="pc_xxxbox@mineo.jp"          # メールの宛先
-    mail_title = "SW_test_ON"
-    mail_body  = "SW_test_test"
-    return mail_onoff,MailServerName,UserName,UserPass,toMailAddres,mail_title,mail_body
 
 def hosei():
     # センサーのオフセット誤差を補正する補正値です。
     temp  = 0
     humdi = 0
-    press = 0
-    return temp,humdi,press
+    return temp,humdi
 
 def ambi():
     # ambientのテストチャンネル ID,ライトキー
     # ご自身のambient設定に変更してください。
-    ch_ID,write_KEY = 68358,"3a0553e59b39b1ef"
+    ch_ID,write_KEY = 69958,"3a05xxxxx39b1ef"
     return ch_ID,write_KEY 
 
 
